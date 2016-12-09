@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="id_01.html">Teste ID 01</a></td></tr>
+<tr><td><a href="id_02.html">Teste ID 02</a></td></tr>
+<tr><td><a href="id_03.html">Teste ID 03</a></td></tr>
+<tr><td><a href="id_04.html">Teste ID 04</a></td></tr>
+<tr><td><a href="id_05.html">Teste ID 05</a></td></tr>
+<tr><td><a href="id_06.html">Teste ID 06</a></td></tr>
+<tr><td><a href="id_07.html">Teste ID 07</a></td></tr>
+<tr><td><a href="id_08.html">Teste ID 08</a></td></tr>
+</tbody></table>
+</body>
+</html>
